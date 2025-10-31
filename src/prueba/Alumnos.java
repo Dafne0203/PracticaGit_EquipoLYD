@@ -6,7 +6,7 @@ public class Alumnos {
 		System.out.println("Hola, comos alumnos de 1 DAW");
 		System.out.println("Hola, soy Darío Sánchez");
 
-
+		System.out.println("");
 	}
 
 }
